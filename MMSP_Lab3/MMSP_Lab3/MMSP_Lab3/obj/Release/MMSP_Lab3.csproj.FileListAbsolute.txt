@@ -1,0 +1,15 @@
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\bin\Release\MMSP_Lab3.exe.config
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\bin\Release\MMSP_Lab3.exe
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\bin\Release\MMSP_Lab3.pdb
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\bin\Release\Tao.FreeGlut.dll
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\bin\Release\Tao.OpenGl.dll
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\bin\Release\Tao.Platform.Windows.dll
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\bin\Release\Tao.FreeGlut.xml
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\bin\Release\Tao.OpenGl.xml
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\bin\Release\Tao.Platform.Windows.xml
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\obj\Release\MMSP_Lab3.csprojResolveAssemblyReference.cache
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\obj\Release\MMSP_Lab3.Form1.resources
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\obj\Release\MMSP_Lab3.Properties.Resources.resources
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\obj\Release\MMSP_Lab3.csproj.GenerateResource.Cache
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\obj\Release\MMSP_Lab3.exe
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab3\MMSP_Lab3\MMSP_Lab3\obj\Release\MMSP_Lab3.pdb
