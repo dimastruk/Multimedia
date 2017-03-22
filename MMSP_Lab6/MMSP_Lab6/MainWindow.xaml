@@ -1,0 +1,83 @@
+﻿<Window x:Class="MMSP_Lab6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MMSP_Lab6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="600"
+        AllowsTransparency="True"
+        WindowStyle="None">
+
+    <Window.Background>
+        <SolidColorBrush Opacity="0.1" Color="White" />
+    </Window.Background>
+    <Grid>
+        <Canvas>
+            <Ellipse Fill="Red" Width="70" Height="70">
+                <Ellipse.Triggers>
+                    <EventTrigger RoutedEvent="Ellipse.Loaded">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation From="0" To="530" Duration="0:0:5" Storyboard.TargetProperty="(Canvas.Left)" RepeatBehavior="Forever" AutoReverse="True"/>
+                                <DoubleAnimationUsingKeyFrames Duration="0:0:2" Storyboard.TargetProperty="(Canvas.Top)" RepeatBehavior="Forever">
+                                    <DoubleAnimationUsingKeyFrames.KeyFrames>
+                                        <LinearDoubleKeyFrame Value="0" KeyTime="0:0:0"/>
+                                        <LinearDoubleKeyFrame Value="200" KeyTime="0:0:0.5"/>
+                                        <LinearDoubleKeyFrame Value="430" KeyTime="0:0:1"/>
+                                        <LinearDoubleKeyFrame Value="200" KeyTime="0:0:1.5"/>
+                                        <LinearDoubleKeyFrame Value="0" KeyTime="0:0:2"/>
+                                    </DoubleAnimationUsingKeyFrames.KeyFrames>
+                                </DoubleAnimationUsingKeyFrames>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Ellipse.Triggers>
+            </Ellipse>
+            <Rectangle Name="rectangle" Fill="Green" Width="100" Height="70">
+                <Rectangle.RenderTransform>
+                    <RotateTransform CenterX="50" CenterY="35" x:Name="noFreeze" />
+                </Rectangle.RenderTransform>
+                <Rectangle.Triggers>
+                    <EventTrigger RoutedEvent="Rectangle.Loaded">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation From="25" To="410" Duration="0:0:10" Storyboard.TargetProperty="(Canvas.Top)" RepeatBehavior="Forever" AutoReverse="True"/>
+                                <DoubleAnimationUsingKeyFrames Duration="0:0:2" Storyboard.TargetProperty="(Canvas.Left)" RepeatBehavior="Forever">
+                                    <DoubleAnimationUsingKeyFrames.KeyFrames>
+                                        <LinearDoubleKeyFrame Value="0" KeyTime="0:0:0"/>
+                                        <LinearDoubleKeyFrame Value="200" KeyTime="0:0:0.5"/>
+                                        <LinearDoubleKeyFrame Value="500" KeyTime="0:0:1"/>
+                                        <LinearDoubleKeyFrame Value="200" KeyTime="0:0:1.5"/>
+                                        <LinearDoubleKeyFrame Value="0" KeyTime="0:0:2"/>
+                                    </DoubleAnimationUsingKeyFrames.KeyFrames>
+                                </DoubleAnimationUsingKeyFrames>
+                                <DoubleAnimation Storyboard.TargetProperty="(Rectangle.RenderTransform).(RotateTransform.Angle)" To="-360" Duration="0:0:1" RepeatBehavior="Forever" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Rectangle.Triggers>
+            </Rectangle>
+            <Polygon Fill="Blue" Points="50,0,100,100, 0,100">
+                <Polygon.Triggers>
+                    <EventTrigger RoutedEvent="Polygon.Loaded">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation From="0" To="400" Duration="0:0:10" Storyboard.TargetProperty="(Canvas.Bottom)" RepeatBehavior="Forever" AutoReverse="True"/>
+                                <DoubleAnimationUsingKeyFrames Duration="0:0:2" Storyboard.TargetProperty="(Canvas.Right)" RepeatBehavior="Forever">
+                                    <DoubleAnimationUsingKeyFrames.KeyFrames>
+                                        <LinearDoubleKeyFrame Value="0" KeyTime="0:0:0"/>
+                                        <LinearDoubleKeyFrame Value="200" KeyTime="0:0:0.5"/>
+                                        <LinearDoubleKeyFrame Value="500" KeyTime="0:0:1"/>
+                                        <LinearDoubleKeyFrame Value="200" KeyTime="0:0:1.5"/>
+                                        <LinearDoubleKeyFrame Value="0" KeyTime="0:0:2"/>
+                                    </DoubleAnimationUsingKeyFrames.KeyFrames>
+                                </DoubleAnimationUsingKeyFrames>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Polygon.Triggers>
+            </Polygon>
+        </Canvas>
+    </Grid>
+</Window>

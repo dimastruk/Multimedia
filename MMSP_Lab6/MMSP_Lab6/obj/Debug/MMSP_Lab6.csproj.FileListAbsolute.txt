@@ -1,0 +1,14 @@
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\bin\Debug\MMSP_Lab6.exe.config
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\bin\Debug\MMSP_Lab6.exe
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\bin\Debug\MMSP_Lab6.pdb
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\obj\Debug\MMSP_Lab6.csprojResolveAssemblyReference.cache
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\obj\Debug\MainWindow.g.cs
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\obj\Debug\App.g.cs
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\obj\Debug\MMSP_Lab6_MarkupCompile.cache
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\obj\Debug\MMSP_Lab6_MarkupCompile.lref
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\obj\Debug\MainWindow.baml
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\obj\Debug\MMSP_Lab6.g.resources
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\obj\Debug\MMSP_Lab6.Properties.Resources.resources
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\obj\Debug\MMSP_Lab6.csproj.GenerateResource.Cache
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\obj\Debug\MMSP_Lab6.exe
+E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\MMSP_Lab6\MMSP_Lab6\obj\Debug\MMSP_Lab6.pdb
