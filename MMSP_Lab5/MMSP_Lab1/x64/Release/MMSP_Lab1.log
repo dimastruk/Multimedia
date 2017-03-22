@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  MMSP_Lab1.cpp
+MMSP_Lab1.cpp(77): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+MMSP_Lab1.cpp(78): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+MMSP_Lab1.cpp(79): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+MMSP_Lab1.cpp(150): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+MMSP_Lab1.cpp(151): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+MMSP_Lab1.cpp(152): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+LINK : fatal error LNK1181: не удается открыть входной файл "glut32.lib"

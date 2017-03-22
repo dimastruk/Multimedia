@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MMSP_Lab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MMSP_Lab5.cpp
+e:\ікні\3 курс\2 семестр\програмування мультимедійних систем\лабораторні\mmsp_lab5\mmsp_lab1\mmsp_lab5.cpp(21): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+e:\ікні\3 курс\2 семестр\програмування мультимедійних систем\лабораторні\mmsp_lab5\mmsp_lab1\mmsp_lab5.cpp(22): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+  MMSP_Lab1.vcxproj -> E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\Debug\MMSP_Lab5.exe
+  MMSP_Lab1.vcxproj -> E:\ІКНІ\3 курс\2 семестр\Програмування мультимедійних систем\Лабораторні\MMSP_Lab5\Debug\MMSP_Lab5.pdb (Full PDB)
